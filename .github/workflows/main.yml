@@ -10,5 +10,3 @@ jobs:
 
     steps:
       - run: echo "Hello world"
-# Run this inside your container
-$ npm install --save-dev mocha chai mocha-junit-reporter
